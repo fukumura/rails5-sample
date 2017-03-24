@@ -5,3 +5,6 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+Company.create(id:2121, name: 'ミクシィ', gyoshu: 'g9050', market: 't')
+Company.create(id:2122, name: 'イクシィ', gyoshu: 'g9050', market: 't')
+
